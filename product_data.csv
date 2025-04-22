@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity,supplier,manufacture_date,expiry_date,rating
+11c961e6-379a-4f18-887e-cec6a2224eb8,Painting Carry,Sports,909.45,236,Hays-Zhang,2024-04-29,2026-01-13,3.0
+ce634279-822f-4bce-ba3d-9d20ce008f70,Their East,Clothing,251.65,210,Perry Inc,2023-04-21,,4.6
+c28f55b3-41b3-4380-86ea-309c3275ce33,Vote Few,Beauty,523.15,441,Dunn-Hill,2023-08-02,,2.8
+639b4fc5-8b0c-4a70-84db-5a869391ff79,Bank Open,Clothing,327.49,6,"Clark, Hughes and Ford",2023-07-15,,2.4
+74a072e3-9c3b-4af0-bad9-0dd7187887de,Return Present,Electronics,817.36,408,Hernandez Inc,2023-08-16,,2.8
+c2011161-9ac1-43eb-b560-322a35077a68,Record Design,Sports,19.83,457,Hawkins Inc,2024-01-23,2026-04-05,4.2
+bc3b5dd2-5925-44ca-a707-2e0cc06aef8e,Wife Hotel,Books,439.82,408,Waters-Meadows,2023-05-23,,4.5
+e4f22a90-ccfd-45e9-81bd-9e10ef51ff58,Stop Work,Home & Kitchen,791.18,390,"Mitchell, Washington and Juarez",2024-07-14,,1.9
+14eb0dd1-98ca-4b08-8a25-1e96f67b28a6,Still See,Home & Kitchen,989.84,359,"Ball, Perry and Kim",2023-11-15,2026-02-04,2.4
+745e857e-0172-4dd0-98e3-c366bd9743a1,Cell Industry,Home & Kitchen,388.46,350,Schmidt LLC,2024-04-26,,4.7
+2e25322c-ed53-4c23-a07a-67577eb38ac6,Air Similar,Beauty,292.8,284,"Peterson, Oliver and Jones",2025-02-28,,3.3
+7351f1a7-47d4-4a5b-af3d-87333675a0f5,Environmental Letter,Beauty,65.8,13,Walker PLC,2024-03-20,2025-07-03,3.7
+e2347548-2ff1-408d-bd01-50383b595f60,Drive Fly,Electronics,687.72,141,Peters-Cox,2024-10-16,2026-07-11,1.6
+e79d00a2-6aa7-4b0a-a589-e92f106e81d2,Final Across,Electronics,142.97,449,Brooks Inc,2025-01-19,2025-06-18,4.8
+14bacc72-5241-4555-9fb9-f521ace36960,System Happen,Clothing,838.64,285,"Flores, Jackson and Reyes",2024-07-19,,2.4
+9fb546a9-86bc-410b-acfc-12daf26db323,Break Less,Sports,110.23,58,Orozco-Brown,2024-11-26,,4.4
+2c86bb4d-9f87-4065-b0fe-5d2bc3f74960,Over Miss,Clothing,486.2,357,Dunn Group,2025-04-11,2027-04-18,3.6
+854742d7-10f2-473f-be19-aa5cdd8882a0,Religious Support,Clothing,801.57,153,Nelson-Rose,2025-04-02,,4.5
+a40adeec-9582-4bc0-bd91-9dd0dffd4465,Game To,Sports,198.09,300,"Ponce, Shelton and Garcia",2024-03-23,2027-01-21,2.0
+5bbed53b-f1f7-4587-8b39-c4f6e948c293,Need Southern,Beauty,168.77,32,Fields-Anderson,2024-02-05,2026-07-18,3.0
+969c845d-1b01-4ce5-be57-e686c511ab40,Blue Ability,Home & Kitchen,874.99,40,Miller Group,2024-09-07,,1.4
+c5e94aef-c09d-4de3-bb8e-53f3b92715a5,Likely Nor,Sports,970.1,142,Ritter-Meadows,2023-06-27,,1.3
+0268a530-364c-403d-8f3d-9d70043976d7,Power Really,Home & Kitchen,125.88,189,Clark-Abbott,2024-07-07,,2.7
+cc634fe2-e30f-4b98-8a29-4f43eb8b649f,Race Build,Sports,683.82,326,"Woods, Hayes and Lewis",2025-03-26,2025-10-17,4.0
+b31458fc-1bdd-428c-b5f5-50d726a9bc4c,Deal Firm,Books,254.73,273,Flores Ltd,2023-09-06,2025-08-24,2.9
+0a2c2b2e-4242-476c-a0d8-9c641cc87575,Despite Last,Beauty,129.78,110,Flores-Gonzalez,2024-08-19,,3.0
+ebfabb2f-76c0-4e1a-916c-0748f64bc9d0,Four Decade,Beauty,345.19,219,French and Sons,2024-09-24,2026-09-05,1.1
+7f906f57-253b-4bb2-a2f9-7aa7c5317a9b,Among Later,Clothing,543.37,321,King-Evans,2024-09-24,,3.5
+45c0d672-6958-41f5-9fc4-017304c7fd6c,Music Recent,Sports,848.29,442,"Dean, Lewis and Tucker",2024-07-19,,4.9
+6f21f9b6-84b2-4fe0-9322-30682a3aa92b,Admit Peace,Home & Kitchen,37.1,345,"Long, Johnson and Baker",2023-11-15,2026-06-20,1.4
+e6dd31ef-d602-4d99-9dc7-a6cba201caee,Garden Media,Books,770.27,89,Barton-Bowers,2024-11-02,,4.2
+edeab5ce-0917-4002-ab60-96bc5fe00f35,Company Serve,Beauty,767.01,128,"Taylor, Smith and Ford",2023-06-09,,3.8
+7c204333-028e-403a-bffa-763ecbb2a6b0,Statement On,Clothing,230.29,303,Kim-Stevens,2024-04-24,,2.2
+53111b9e-68d5-4d18-9993-d891dc0f0242,Mind Develop,Electronics,913.53,238,Anderson Ltd,2024-11-04,2027-04-14,1.5
+ab929a79-65e3-4eeb-a968-d1866f58987f,Believe Art,Clothing,994.46,234,"Moreno, Nelson and Daniel",2025-03-22,2026-07-06,2.8
+5b675f75-07b1-4d24-b640-ea376958541c,We Sure,Books,483.54,149,Patton Group,2023-09-26,2026-10-30,3.7
+b52ed6a7-fd15-4145-8f1a-9e6888bd1b39,Factor Enjoy,Books,636.23,435,"Orozco, Flowers and Mcguire",2024-09-22,,4.6
+3d48e5b4-e5aa-4e13-a073-8989311e2bc7,Because City,Beauty,861.52,491,"Cross, Miller and Henry",2025-02-16,,4.5
+251ddaf1-210e-4fad-897f-11ed2088f425,Officer Series,Clothing,402.38,457,"Johns, Wright and Spencer",2024-01-09,,1.4
+55db3478-0854-4ed9-87e9-56cf7e5e73f3,Today Cell,Clothing,593.2,33,Ellis-Hernandez,2023-10-07,,1.1
+ccbe0c49-3add-421f-9c59-f6bd56f51b7d,To Public,Beauty,506.13,69,"Wyatt, Friedman and Hill",2024-05-18,,4.2
+2f89dd17-3b9f-46c5-9b83-bf2b3877fd40,Enjoy Strategy,Home & Kitchen,48.82,247,"Nunez, Mcintosh and Hughes",2025-03-02,2026-07-02,1.5
+35f63c7e-756b-482f-ba0c-13f69473500d,Rule Travel,Clothing,834.05,351,"Smith, Bryant and Roberts",2025-02-25,2025-10-05,1.3
+57d44f25-0430-45d1-a339-5d009a61ac81,Fight Poor,Home & Kitchen,53.3,494,"Thomas, Gonzalez and Carroll",2025-03-09,,4.4
+eadf2d54-a080-4119-9600-f668113d1ed9,Well School,Electronics,956.84,355,"Duran, Martin and Parker",2024-05-12,2026-04-09,2.3
+014ad58c-679d-4314-9f1a-afaf10a2d0a5,Purpose Either,Home & Kitchen,472.64,83,"Sullivan, Smith and Hart",2023-10-06,,2.6
+07aa7fb9-cb06-4dcc-8bc6-8ca5c4668f0c,Throughout Eight,Home & Kitchen,72.24,90,Stewart-Williams,2023-06-28,,1.8
+03e6c754-444c-4e76-8ca3-e5a197c98bb6,They Machine,Sports,63.4,419,Haynes-Allen,2024-06-14,2026-11-20,3.2
+ae3892a8-e8fe-4503-b036-7a705d2f61e7,Worker Main,Clothing,215.81,296,"Villa, Cain and Cunningham",2024-09-21,,3.0
+5f214fca-5334-4cfe-996a-43b52b8a1c47,Kind Democratic,Books,800.61,500,Reyes-Diaz,2023-09-29,2026-08-13,3.0
+3ae22f28-3061-4f6e-9f75-d58082fd9eab,Appear My,Sports,424.83,320,Kramer-Hamilton,2024-02-22,,4.4
+35df7ffb-5c58-4405-b136-df30b2a571e8,Ask Anyone,Clothing,605.96,455,"Small, Reyes and Mccormick",2024-09-22,2027-01-16,3.9
+60fd815e-ae28-4423-9c62-2616e92a45cb,Remain Vote,Beauty,42.53,187,Mcdaniel-Farmer,2023-12-02,,4.1
+f6f11d45-a41c-4f05-b880-b975e9f09263,Go Citizen,Home & Kitchen,856.98,82,"Boyd, Williams and George",2023-06-24,2026-05-05,3.3
+be3e3f10-3281-4ee8-a4d4-14aabf0986da,Still Goal,Books,699.53,452,Dunn-Johnson,2024-01-05,2026-11-28,2.4
+6bfce794-849b-4bd8-9cc6-93030a9cf1da,Participant Cultural,Books,191.26,127,West-Jacobs,2024-04-26,,1.7
+abd67430-5712-4628-ab6f-a49d626588fe,Discover Somebody,Home & Kitchen,973.12,87,"Shepherd, Snyder and Patterson",2024-11-16,2026-07-17,4.0
+4729b6a3-f188-42d7-9686-3281e293f685,Manage Quickly,Electronics,469.22,275,Horne-Duffy,2023-07-20,,2.4
+7548b830-eb70-43ec-849b-8d0e0bc162a5,East Crime,Home & Kitchen,602.08,439,"Mills, Carey and Middleton",2024-03-20,2026-09-08,1.3
+88f680fb-aaa4-48be-8731-f25f22ea6d7f,Together Middle,Beauty,426.68,307,"Stuart, Whitaker and Brewer",2023-09-12,,3.0
+cad277a9-fd66-4f2b-9574-e2ea66f9ff1a,Tend Once,Clothing,394.45,451,"Hamilton, Taylor and Roberts",2024-07-26,,1.7
+5b913c39-bd2a-49d6-a105-8ee414c1e660,Behavior Peace,Clothing,593.7,78,Gonzales Group,2025-03-07,,2.0
+5ad5c7de-8516-4e6f-87cc-0efb59c68c17,Compare Significant,Beauty,855.49,149,Li LLC,2024-08-01,,2.1
+4f18454c-8fb0-4278-b4d8-db797ea12d9b,Window Mission,Books,772.33,311,Weaver-Ellis,2024-10-01,,1.4
+03c71efd-42b7-4186-b447-ae2702efd335,Agreement Some,Beauty,811.62,14,Taylor-Davidson,2023-11-18,,3.3
+4c5c7f6c-3f35-49bc-8519-a9c373b0c32d,Traditional Population,Home & Kitchen,742.18,321,"Howell, Lam and Yates",2023-10-26,2025-10-02,2.2
+6f40fabc-d275-4f6d-8385-9bb772a2a181,Garden Meet,Home & Kitchen,144.65,268,Davila-Bailey,2024-02-10,,2.9
+0f884fa5-ac60-4b71-85c9-0d380d985352,Join Sound,Beauty,628.29,407,Parks-Spencer,2024-06-03,,3.4
+cbf090cb-830d-4226-a714-a4f659d7f759,Beyond Everyone,Books,342.96,249,Little Inc,2024-07-09,2027-03-03,1.5
+7dd1de40-09b9-459f-993a-504b86e593cb,Mission Sound,Clothing,340.13,31,"Johnson, Barnes and Gonzales",2024-08-24,2026-04-05,3.9
+be2b6707-c64e-4c88-a2d1-eb54f8032ac5,Peace Top,Beauty,603.11,117,Aguilar Inc,2023-06-24,2027-04-11,2.3
+aed87490-2119-4d18-bab3-36bea63dd3bf,Author Fly,Home & Kitchen,796.64,45,Chambers Inc,2024-01-26,2027-01-07,4.7
+2f7eab92-7f83-45e5-92b9-014c682769b0,Town Must,Home & Kitchen,172.62,155,Mitchell-Rose,2024-02-05,2026-04-25,3.2
+335fa040-bdc1-42b4-8a65-7c113ff89027,Learn Finish,Books,859.15,484,Hartman and Sons,2023-10-13,2027-02-08,4.8
+38c5b8fd-ce7d-4a3d-a996-e9bc3856b94b,Toward Lot,Home & Kitchen,668.53,234,Spence-Santos,2024-05-25,,4.2
+e09a248e-2fdd-446f-9105-2af9ef8ce581,Physical Great,Beauty,57.04,303,Osborne Ltd,2024-09-23,2026-11-28,3.1
+747026a7-5eb0-4d4e-8beb-1b3b9e493566,Tax Upon,Beauty,651.51,416,"Brooks, Hernandez and Murphy",2024-07-06,2027-01-27,1.8
+8ed00e9a-9ce5-4643-8019-9a29712b9c0c,Enter Course,Clothing,44.58,363,Miles and Sons,2024-06-15,,1.8
+d683739b-987c-49a6-bda2-a22f811d2a85,Girl Not,Sports,263.11,260,Flynn Ltd,2025-02-01,2026-03-17,2.7
+e5712a8e-afc3-4dd2-985d-1ef1a3c77c03,Onto West,Books,47.2,158,Phillips Inc,2024-10-11,,2.0
+128a13cd-f629-484f-a83d-f91383962333,Power Power,Home & Kitchen,832.7,123,"Bowman, Jones and Smith",2025-02-16,2025-07-10,4.5
+623591df-7d65-4d72-ab3f-aca61e9b400e,At Issue,Beauty,389.25,314,Stewart LLC,2023-10-03,2025-08-12,2.3
+2bf64447-e3f3-4039-96ed-a40c32cbdc08,Strong Green,Clothing,404.82,114,"Christian, Villarreal and Dawson",2024-05-15,,4.8
+91cb3828-9da2-4648-b615-23bb23087477,Should Score,Sports,182.62,480,Butler-Newman,2024-06-08,2025-10-20,2.0
+eb71b427-d2c4-45d2-9547-9c8e0f588de0,Travel Body,Clothing,188.23,482,Robinson-Gibbs,2023-08-24,2026-04-28,3.5
+cad6b1b7-2e7f-4dc5-bff8-7afe92a6edf4,Future Her,Sports,530.5,189,Taylor-Ashley,2024-10-23,2026-10-30,4.8
+45ea1bf6-6e47-49df-a3f9-86c5299c7291,Rest Anyone,Electronics,233.3,427,"Harvey, Thomas and Williams",2025-02-16,,3.2
+b136bf8a-846f-4bd7-ae40-8e27b94587eb,South Place,Beauty,127.0,210,Berger Inc,2024-04-23,2026-06-24,1.1
+4511c936-fcee-45f9-89fd-7a4456f78895,Page Set,Sports,105.36,332,Zuniga-Garza,2023-04-23,,2.4
+0b60195e-8116-43f8-8bdf-7d9683f3fa45,Resource Pm,Sports,977.03,410,"Sanders, Stanley and Hampton",2024-02-07,2026-08-21,1.1
+5f0e0224-1a66-49c5-8e1f-12ddb744d620,Share Road,Electronics,832.34,276,"Sanders, Reid and Mejia",2025-02-04,2026-01-02,3.3
+c813cdd9-fa3d-4d74-972b-f9c34a9ce8f8,Seven Enter,Clothing,826.28,339,"Carter, Carlson and Wilkins",2024-02-05,2026-04-25,1.4
+e1fbae3a-c5a7-4752-9972-734ba2d4ac6f,Worker Response,Sports,191.51,222,Powell-Gonzalez,2024-06-17,2025-11-22,3.0
+fa4a507e-5a1f-47d5-943e-61c171c120fe,Figure When,Clothing,411.19,270,Moreno-Thompson,2024-02-17,,1.9
+72a58a90-66d6-4604-899a-2bb152abdd2f,Give Sell,Beauty,22.06,172,Welch Ltd,2024-05-07,,4.8
+e600b132-dc4d-4b3e-bd83-06a5449b6957,Bar Manager,Beauty,274.99,427,"Washington, Reed and Peters",2024-06-27,,1.1
+8d02fe21-a022-4b72-9a4e-45a497696ffd,Pretty Whatever,Home & Kitchen,590.9,7,"Gilbert, Sullivan and Wilson",2023-08-01,2026-10-08,4.9
+90752f94-060f-4a84-b4f5-73ca8688dd77,Every Heart,Books,881.78,347,Singh Inc,2023-12-08,2026-06-08,2.0
+52e5e180-854d-47d3-a3a5-3ba04fd97c2f,Recently Across,Books,903.82,174,Buchanan PLC,2024-01-06,,1.2
+e463f176-87c8-4de0-b8c9-26cda637fd14,Put Southern,Sports,179.41,497,"Martinez, Griffin and Jones",2024-01-04,,4.8
+15457e91-0256-4ac2-a488-708d5e20b094,War Tough,Clothing,918.27,53,Butler LLC,2023-09-13,,4.0
+57d7531a-8dc5-4858-995e-c86a24b392a6,Mr Much,Beauty,645.16,174,Gould LLC,2024-03-30,2025-11-04,4.2
+ad464471-b8f3-4303-b2c6-5e86011f91d9,Camera Same,Beauty,402.84,253,Richard-Grant,2023-05-31,,4.4
+28965150-996d-4e8b-9b3e-3e152fccb441,Gun Create,Sports,222.02,477,"Williams, Miller and Smith",2024-04-24,2026-10-12,3.8
+a801a349-c32e-4a9e-a8bd-cf49d29efd7d,Weight Certain,Books,482.87,74,Nelson-Thompson,2024-07-09,2026-08-11,4.4
+dbef6518-2854-4ac4-b13e-1f0ed890e352,Physical Mind,Clothing,953.36,271,Dillon-Frye,2023-12-31,2026-04-05,1.5
+5c521ddd-daba-45ab-91a6-eb0f4d48477c,Hold Administration,Electronics,590.94,225,Stewart PLC,2023-08-13,2026-07-03,4.8
+8ab63016-a52c-4bb5-b42b-c6a6f2e23389,Traditional Environmental,Electronics,509.08,284,"Warner, George and Bennett",2023-12-03,2025-05-03,3.9
+d83343e8-f0b8-4218-87a3-0c6872b654f1,Nothing Fear,Electronics,529.83,412,Henderson and Sons,2023-12-15,,2.5
+65abfac0-e671-4ec4-b12d-b7d8198f1b80,Million Sound,Beauty,944.99,132,Thompson LLC,2024-03-12,,1.1
+b93ac478-ce2f-482b-ae27-197af67434fe,Traditional Adult,Beauty,595.23,346,Smith-Oconnor,2024-05-11,,2.6
+3518dae2-499c-4542-9470-7cee6fbdf1fd,Answer Miss,Sports,85.01,283,Ochoa-Brown,2024-11-17,2027-02-07,3.1
+283678e6-6442-40f6-8fbf-e8f7914b6e24,Picture Agency,Sports,579.79,322,"Roth, Dixon and Turner",2024-12-07,,4.4
+d02ec1bf-a749-49e7-9c46-11d5465a4433,Network World,Home & Kitchen,303.4,343,"Henderson, Dunn and Bailey",2024-04-26,2026-08-22,3.0
+9591f6a6-8f31-4864-9b04-f1247c051af9,Along Be,Clothing,599.65,298,Wright-Ramirez,2023-07-15,2027-03-05,2.9
+540fd432-4701-43d2-bd3f-1a9fffe58b9e,Suddenly Too,Beauty,738.98,41,"Hall, Romero and Durham",2024-08-02,,4.5
+5eee0e6a-e0df-48b6-8a99-dc4ca16a244e,Under Full,Electronics,986.76,269,"Ellis, Lopez and Anderson",2024-05-18,,3.4
+e6301cd8-a2ee-49ca-8919-91c6fbe217bd,Garden Discuss,Electronics,903.9,51,"Hale, Mendez and Edwards",2024-07-01,,1.0
+c3785bb8-56a3-4a55-8c77-d8ac4b29f4a1,Light Under,Home & Kitchen,397.83,484,Conner-Martin,2024-09-11,2026-04-01,1.9
+a9bd21f5-8a2c-4b80-9007-12eeb6f51115,Owner Strong,Home & Kitchen,928.88,6,Griffith LLC,2023-12-19,2026-08-26,2.0
+a30f5db5-60ee-4453-a5f1-251aeb251990,Court Yourself,Electronics,438.61,120,"Ingram, Dickson and Wilson",2024-12-06,2025-05-29,3.6
+1e90cf46-2e4d-41b6-9b0c-475677fc4155,Ok Green,Electronics,324.48,320,"Carr, Clark and Gill",2024-08-06,,4.0
+161442f3-750c-4a4f-b9da-fc724087e93d,Gun Goal,Clothing,74.24,392,"Johnson, Austin and Lewis",2025-01-21,2026-05-19,1.9
+39663cd1-7ff7-4ee5-9fe8-1170ce683614,Agree Attention,Books,308.12,84,Holmes-Serrano,2024-11-02,,3.4
+5f78e9d7-b3eb-4c7d-84f1-7bd01db10e59,Whatever Can,Home & Kitchen,870.73,105,Bender-Herring,2023-10-12,,3.0
+2285871b-7dcf-48d4-a4f7-6a670893c089,Condition Many,Clothing,777.13,330,Bright Group,2025-01-25,,2.9
+9f63250b-238d-4e60-9ea0-c0991f00660d,Hit Million,Home & Kitchen,25.33,497,Rodriguez-Vazquez,2024-05-24,,3.9
+2abf128e-f6ce-4a38-886b-c80cdb13da7e,Drug Find,Electronics,119.88,190,"Mcneil, Luna and Thompson",2023-09-05,2026-06-20,3.8
+b60583d0-189e-465c-9e60-5f7323170a9e,Detail Television,Beauty,549.3,482,Ramirez-Leon,2023-11-26,2025-09-06,2.2
+dabf72f2-b5f4-49d6-9c0e-368da1707f3e,Fire Why,Beauty,792.56,277,Smith-Beck,2025-02-26,,3.7
+7fa4edc9-87ae-47de-9512-37ed898bf053,Something Painting,Home & Kitchen,827.14,182,"Romero, Armstrong and Henry",2023-11-29,,2.7
+e702ac67-027f-47e2-9cf7-d820592dcbb7,Resource Glass,Books,987.45,152,"Reed, Franco and Davis",2024-07-02,,1.3
+8e58d3e3-3d07-4451-90c7-0daf4935032d,Need Husband,Sports,304.94,263,Hamilton and Sons,2025-02-02,2025-05-13,4.2
+0d9d4a77-a698-4751-8b08-cb295b91d543,Also Save,Beauty,187.35,179,Owens-Gutierrez,2025-03-13,,1.5
+03ce4769-ef97-442f-a4ee-5594f37db41a,Eye Personal,Beauty,186.61,330,Ramirez Inc,2024-05-06,,1.5
+df6ac33c-a1dd-4d6c-9460-536460397a2b,Art Mrs,Beauty,440.42,358,Skinner-Jimenez,2024-02-25,2026-02-28,1.2
+5976ae2b-dd96-4ed9-b4d3-f8c8454ae7fe,True Forget,Books,375.38,119,Simon Ltd,2024-12-13,2026-06-01,3.5
+bdd3ebc7-6339-44a9-9f6f-498732aabb60,Its So,Beauty,408.2,391,Smith-Garcia,2024-09-30,,4.3
+98dd83d5-e15c-4e09-a622-a3590a648314,Research Enough,Clothing,543.72,340,Lopez LLC,2023-11-06,2026-07-08,4.3
+a378e8d4-3e7d-48c8-9b62-95dc6ea0b34c,Theory Full,Electronics,245.88,2,Diaz Ltd,2024-12-23,,2.1
+515f9dfb-72ec-4123-aadf-c66e6b60ee24,Yard Walk,Electronics,268.16,487,Gray Inc,2023-12-31,,1.6
+3336a554-ac66-4bd3-a09f-aee36b8aa9d3,Look Speech,Books,882.45,390,Wood-Grant,2025-04-04,,3.6
+920d34af-b0f6-4f88-8e67-f413a9081652,Discussion Big,Clothing,909.37,146,"Scott, Morgan and Powell",2025-01-11,2027-04-09,1.9
+37898af4-75fc-487e-bf90-4e1b78cf3c09,Quite Nearly,Home & Kitchen,679.21,104,Williams Group,2024-03-15,,3.5
+38c87e7f-a1a6-4b01-8bea-1ee77c48366c,Dinner Rate,Clothing,167.0,395,Hall Inc,2024-10-11,2026-11-09,3.7
+d96cb6ea-229c-4605-bf39-3da2fb434e51,Safe Physical,Beauty,61.62,31,Stone Group,2023-06-06,2025-11-05,2.2
+ea2a4049-c2a4-41ab-9bd4-0d80146c5209,Smile Step,Clothing,463.28,158,"Castro, Fitzpatrick and Mitchell",2024-12-03,2025-06-06,1.1
+aae769bc-6556-4729-bcbd-667a5b56f0d7,Attack Appear,Clothing,518.42,421,Nelson-Bruce,2023-10-31,,1.6
+058afb78-0b02-408c-9bd1-56f4f2a71160,West Political,Electronics,929.74,76,Murphy Ltd,2024-08-07,2025-09-04,2.6
+8d150cf4-fc28-4c07-825e-f002af69f446,Team Dinner,Sports,121.73,406,Moore-Garcia,2023-11-15,,1.1
+062b351a-3f38-482e-8ba6-6ea60a309f50,Image Middle,Sports,558.85,303,"Romero, Miller and Moore",2023-07-29,,3.8
+65dd5e2f-a3e0-4470-81e0-e7c8ab0d0af3,Work Near,Books,541.61,324,"Johnson, Perry and Brown",2023-09-13,,3.5
+4983d107-ae9f-4f30-aec9-449ccdb9eac3,Late Leader,Beauty,31.02,164,Flores LLC,2023-05-11,,2.0
+aab4cdeb-a8ff-42f6-a78e-32541c335fe5,Policy Effect,Electronics,722.55,372,"Garcia, Alvarez and Cummings",2023-12-25,,4.1
+cb099fc1-d0eb-45f6-8abc-43798184618c,Man Bed,Electronics,820.91,125,Collins-Adams,2023-10-28,,3.1
+4640b934-fe04-476a-9f86-97dabcf77ad5,Strong View,Beauty,104.26,472,Simpson-Tucker,2025-03-01,2025-07-24,3.2
+cab426e0-6afd-40c7-9836-8b7c33248659,Whole Claim,Beauty,73.23,424,"Kennedy, Burgess and Bradley",2023-08-13,,1.1
+5f57c22b-33e9-495f-af42-13c4a4ec2d42,Radio Sister,Clothing,329.92,48,Sellers Inc,2025-01-15,,2.5
+bdf50e4d-c802-49ca-b477-15f02b408174,Health Central,Sports,158.06,82,Martin-Thompson,2023-11-21,2025-10-19,4.2
+2c7ec26d-1034-4478-9690-cceb314cc68f,Cause Live,Electronics,978.22,398,Shepherd Ltd,2024-11-16,2025-04-28,4.4
+5d68417f-8c3f-4c9c-a300-f83e35971885,Catch Gun,Clothing,246.53,438,Williams PLC,2025-03-16,2026-03-09,4.2
+9ca8a261-db8f-4347-a630-1278d4447416,Teacher World,Sports,665.55,495,Miles-Sanchez,2024-07-23,,1.3
+7b7112c2-fbdc-46dc-8b65-03b810e9cb89,Expert Old,Sports,68.05,103,Reyes Inc,2024-05-25,,2.4
+671b116b-19d8-44b4-bd61-46627fea6078,Eye Skin,Sports,603.57,152,Tate and Sons,2024-01-23,,2.1
+99dd793f-2586-4832-8668-bdd9d8e34337,Call Best,Sports,745.38,210,"Davis, Burton and Marshall",2023-07-09,,1.9
+2e87cf8b-8fc8-47a8-a022-3ad1a59e0f44,Some Certainly,Home & Kitchen,758.26,55,"Sanchez, Martinez and Peters",2024-03-24,2026-02-01,1.4
+b5ea4264-30b5-4bc2-b91f-8c7805566fdd,Cell Third,Beauty,410.57,242,Bowers-Cooper,2025-04-20,,3.3
+a3545bc9-8f1d-40a5-ac0f-d4c6fc526c8f,Street Establish,Clothing,677.17,137,Palmer Inc,2024-03-04,,3.2
+d68674c7-af4c-454d-807e-f64c0d9d137c,Commercial Democratic,Beauty,326.71,66,Bartlett LLC,2024-04-15,,2.5
+32383d41-bb02-4a8f-b817-02d67953ae4a,Goal Green,Clothing,759.18,73,"Johnson, Cochran and Russell",2024-07-19,,1.5
+885680d4-4c56-485e-b80e-a3e6720a16f3,Area Business,Beauty,323.15,14,"Lamb, Brown and Rasmussen",2023-07-14,2026-12-16,4.2
+02db62e9-7347-49ab-bdfd-c0b3d51c8809,Bit Yet,Clothing,924.68,407,"Molina, Hill and Yang",2023-07-25,,3.8
+5abc45a4-cab1-480a-b24f-e86fe1f79457,Suddenly Anyone,Books,633.78,330,"Garcia, Soto and Edwards",2025-02-02,,1.7
+4b43f648-8fdd-4bef-a346-81620cc4bea4,Memory Beat,Sports,708.14,64,Hodges Group,2023-06-02,2025-05-22,4.7
+3f95c1b5-e323-45df-93d3-535494abe344,Group Seek,Electronics,684.77,166,"Flores, Williams and Wong",2023-07-06,,3.8
+95d5170f-6066-4f7d-b5b4-8eac8d800d28,Degree Republican,Sports,901.44,59,Huerta-Myers,2024-06-20,,2.4
+fb10ce9c-6124-4867-add6-15aae2ef4104,Use Will,Electronics,945.2,466,Richardson-Lewis,2025-01-09,,1.8
+ac4cedda-e02d-496a-bcbf-b272d78f2e15,Order Institution,Books,305.49,9,Gutierrez PLC,2023-08-16,,1.9
+ae4d9386-e8b9-4639-acc7-26d720601e6a,Both Money,Electronics,952.61,81,Wright PLC,2025-03-12,2026-08-13,2.9
+2a717fe5-87a2-4120-a4ee-a4775a9ead7a,Can Customer,Electronics,738.8,487,"Mclaughlin, Bowman and Crawford",2024-10-28,,4.7
+8f7ef961-d7a1-4577-8856-41d30f1b29dc,Couple Lot,Books,336.03,175,"Taylor, Sullivan and Knox",2025-01-13,2026-05-15,3.3
+7b8acee9-394e-4518-89c2-2af0a2beb98d,Beat Simply,Beauty,720.18,168,Bradley LLC,2023-06-18,,1.1
+d8cf9336-bfab-4ec1-8226-e56e385ef44b,Surface Laugh,Electronics,44.57,322,Baker-Johnson,2023-04-22,,2.4
+cf071c68-7245-497c-b5c8-af84eaf7ec75,Group Agree,Sports,213.25,387,Avila LLC,2024-07-25,2027-01-12,4.2
+17f6cb16-f585-4a95-bb9f-90fe8d47470e,Prove Writer,Home & Kitchen,655.01,192,Ford-Jenkins,2024-12-27,,2.8
+bd363620-613d-4d70-a56b-a9f917a1615c,Become Even,Sports,255.71,286,"Woodard, Jackson and Combs",2024-11-10,,4.2
+84c6f8f6-6ee5-47bb-ad74-8f149bd724d2,Discover Have,Books,638.72,201,"Pennington, Crosby and Park",2023-12-07,,4.4
+2caa827f-27be-495f-bc74-2bb53fb0c6e2,Stock Reach,Sports,10.91,54,Middleton Ltd,2023-10-08,,2.9
+222fb911-6266-43ea-9da1-09016073e9f2,While Top,Home & Kitchen,640.82,150,Mills PLC,2023-05-19,,1.8
+b4b9aab7-a17a-442b-8f88-5ec28b909c67,Song To,Books,351.14,444,Alvarado-Clark,2024-05-28,2025-06-17,1.1
+24081e0f-af73-47d6-8cbf-06b4f34600df,Box Its,Sports,997.96,288,"Kelley, Young and Johnson",2024-11-06,,2.5
+05361ed3-df62-4df2-b0e3-68818773d4a5,Else Manager,Electronics,586.2,34,"Johnson, Randall and Wright",2024-08-27,2025-08-07,2.9
+48ddafca-9735-484c-a65c-543fbf351fb2,Continue Interest,Home & Kitchen,920.38,364,"Mason, Tran and Newman",2024-07-13,,2.3
+c1512dab-79da-409c-8e28-b97a1dd4f06f,Challenge North,Sports,903.21,54,Clark-Morgan,2024-11-17,,4.2
+bfe20790-30cb-4ec0-b09d-12f8dab6db3e,Ago His,Home & Kitchen,209.7,253,"Thomas, Mills and Curtis",2024-07-30,,4.9
+da86e1f1-6d11-4013-ab5d-e24a065cad2c,Your Foot,Books,884.16,20,Mcconnell LLC,2024-03-21,,3.9
+3958e924-73b8-41e4-802e-916d1e120e84,Although Human,Electronics,335.95,389,Hamilton-Jackson,2024-04-11,,1.7
+08728db9-2d07-4271-84e9-5d2187f67a35,Pm Training,Books,377.2,471,Armstrong-Aguirre,2024-04-11,,1.2
+4ed08312-0963-44e2-bd73-45a3bf9f4d1a,Executive Former,Books,150.5,153,Mccarty Inc,2023-06-07,,4.8
+5a7c3573-6ae9-405f-946c-5528269e1819,Environmental Final,Home & Kitchen,729.46,423,Harris LLC,2024-05-07,2027-02-26,1.8
+da4bcd0a-70d2-4cf6-be70-29923395dded,Personal Concern,Beauty,225.9,160,"Moses, Bush and Sanchez",2023-09-22,2026-03-06,2.4
+d62472f1-a1d5-4cee-ade2-b9d445de0955,Impact Point,Home & Kitchen,671.78,164,Waters PLC,2024-01-31,2026-03-19,1.6
+d842866d-57b4-4434-bd82-a348456cd4ba,Leg Color,Beauty,468.98,90,"Bishop, Parsons and Thompson",2024-01-19,2026-11-11,2.8
+a74036a8-193a-4b5a-bbc0-083282a1f053,Wife Pull,Books,932.17,430,Lopez-Washington,2024-02-04,2025-05-26,3.4
+b07a3284-e27d-4f2f-9a70-22f560672515,Season Matter,Books,984.93,195,Gordon-Garza,2023-09-03,,4.3
+73855607-e6d2-4780-a7fe-0a70ba8c6b9e,Move Agent,Beauty,611.62,471,Vance Inc,2023-12-16,2027-01-17,1.1
+02fdd5b4-bce0-4158-be0b-7a06d99741aa,Red Short,Home & Kitchen,121.27,334,Maxwell PLC,2025-04-17,,4.2
+c42dba07-5d0f-491d-bbd7-b48fe11d6a63,Tough The,Home & Kitchen,639.51,485,Holland Inc,2025-02-06,2026-03-09,3.8
+bd1cba9d-afd1-40dd-91a4-a648b3fc6836,Newspaper Share,Books,310.6,409,Nolan-Powell,2025-04-01,,5.0
+f9db5a70-e0c0-4c35-904f-5c8010ea62db,Identify Writer,Home & Kitchen,540.73,25,Lucas-Alexander,2024-06-07,,3.6
+a3634438-0b59-490e-b99f-796e78ccb41c,Hot Later,Books,686.77,363,Daugherty-Nichols,2023-06-29,2025-07-04,3.2
+7aee12ef-94e6-4f8a-806d-0222de43888e,Develop Environment,Electronics,641.51,109,Garcia-Wiggins,2024-03-30,2025-05-30,2.4
+7858edbe-28c3-4f7b-a426-1957986f0ca0,Source Some,Home & Kitchen,749.08,337,Miller and Sons,2025-02-26,,3.0
+8d435f8c-eed2-4a40-a0e0-4d3777cf4701,Professional Throughout,Clothing,161.48,13,Edwards-Hunt,2024-10-28,2025-10-30,1.5
+4f64a1be-f1d6-4e35-88e9-82831dc69a47,Hold Turn,Books,997.09,450,Camacho-Spence,2024-12-31,,1.5
+f457c9f5-433c-460f-a08e-6c3a1c83ba8c,Area Dream,Sports,109.52,460,Rowland and Sons,2025-02-05,2025-12-15,2.2
+501d2983-a596-4bd5-b9e5-822811a6936e,According Baby,Clothing,753.83,152,Mann-Martinez,2023-11-28,,3.5
+0a612e09-2b9a-4489-a064-9b7ec6ad6b73,Radio Whatever,Beauty,832.36,45,Smith-Brown,2025-01-11,,1.6
+790c2b3e-f73a-4bb0-891c-1b2cab55057f,President Far,Clothing,656.5,284,Gibson Group,2023-10-28,,4.1
+e01c419b-6946-4c85-b817-5621cc0b90be,What Product,Home & Kitchen,254.21,61,"Golden, Vaughn and Lopez",2023-10-05,2025-11-11,2.5
+e2c2fe76-e359-4a8f-8701-363f829a10c8,Look Little,Beauty,131.79,339,White and Sons,2023-11-14,2026-03-20,2.5
+24c92ce8-c42a-4c79-bf57-f0380b32c718,Them Moment,Books,286.01,168,Moore Inc,2023-10-07,,3.8
+bcdb6554-b5d0-4f01-8d74-0a6dbf0d0d69,Fire No,Electronics,530.34,437,Scott Group,2024-05-09,2026-07-25,2.8
+c6cbf934-33f7-4217-8a94-9e34d4d3a1dd,Response Laugh,Beauty,379.47,23,Boone Inc,2023-08-22,,3.8
+523e96e6-5739-4c34-acc7-28b4fed288ba,Create Pass,Beauty,813.13,445,"Humphrey, White and Walker",2025-02-21,2026-10-17,2.4
+b4570395-097d-4699-ad8a-0f8ed2eff65d,Small Police,Sports,936.08,36,"Mcgrath, Blevins and Clark",2023-11-04,2026-07-19,2.4
+15d21d6f-a0aa-4896-9aaa-e4c8a80bb806,Increase For,Clothing,666.07,482,Ruiz-Ashley,2023-12-09,2026-07-19,2.8
+ddbe6888-0e97-425a-8403-a4d61a468488,Us Foot,Sports,342.61,312,Burns Group,2023-12-16,,3.0
+c29f27fa-e6cc-4c35-a50d-49ebb779db2d,As Herself,Beauty,310.5,318,"Wiley, Jacobson and White",2023-04-21,2027-02-01,4.1
+b166397f-3bc8-4af0-90ac-4cfc4ab3c67d,Sort Course,Home & Kitchen,153.04,262,"May, Morgan and Beck",2023-11-09,2025-06-06,4.6
+dd79341b-902c-46d8-80a4-f2f579776505,Tend Hit,Books,534.61,175,"Fields, Torres and Turner",2023-07-01,,4.3
+5d9bab46-7c42-4216-b413-352a1bfd7619,South Involve,Books,404.68,344,"Davis, Lamb and Luna",2023-11-07,2026-08-08,3.4
+929f6220-da09-4375-afb7-8e7cc713052a,Majority Fine,Sports,136.28,400,Gomez Inc,2025-03-13,,4.3
+5ffe952e-232e-4cf0-99a4-5c59a7469bb0,Foot Buy,Books,552.23,268,Payne Ltd,2024-06-09,,4.0
+5b717ece-d367-48d0-b01c-6986180af8da,Remember Discuss,Books,324.55,342,Hayes-Rodriguez,2025-01-28,2026-11-22,3.4
+000112ef-b51a-425d-a6ef-c45d6b1c4763,Democratic Relationship,Sports,469.87,217,Brown Ltd,2025-01-03,,2.8
+403a77e2-8c66-4b1c-9d79-1a36b543d846,Save With,Sports,656.22,399,"Harrison, Moran and Olsen",2024-03-12,2027-03-04,2.7
+4fda3b69-ccbb-476c-b15b-f335de7521f6,Science Partner,Sports,377.17,358,Adams-Roberts,2024-05-25,2027-04-15,4.4
+9c163fad-a14c-47a3-8e4e-9da1642a211d,Could Rest,Sports,279.76,495,Reed-Reyes,2024-01-11,2025-08-29,1.2
+df04eda7-6e4e-4d87-8924-e3afd491095e,Future Visit,Home & Kitchen,405.58,434,"Lee, West and Gill",2024-07-26,2026-01-21,1.4
+3d96ebe3-39ab-4283-aca0-0996bdbe4114,Program Develop,Home & Kitchen,684.43,481,"Holmes, Pena and Green",2023-12-26,2027-03-10,4.6
+43b68b76-5497-42e3-88ec-f23843d87eaa,Popular Person,Electronics,472.76,413,Lloyd Ltd,2023-12-23,2026-07-22,3.3
+8123e38a-9ef8-4a4c-890c-df6328190c2d,Center Since,Beauty,579.38,405,"Odonnell, Wilkerson and Sanchez",2024-04-04,,1.9
+30d83787-5a90-4803-b9a9-bb608141e1e7,However Without,Electronics,779.71,140,"Baldwin, Johnson and Wilkerson",2023-08-18,2026-08-01,4.3
+73a721b4-24fc-4d29-ba61-37e73bfa0a92,Memory Here,Home & Kitchen,761.88,420,Taylor and Sons,2025-02-06,,4.8
+1d0a89db-ff96-4210-98d9-9babf1438791,Want Wish,Books,778.76,182,Thomas-Logan,2025-03-21,2026-10-12,3.7
+5ebb88b5-cda0-4a4a-94bc-f31566bd5775,Finally Relate,Sports,780.17,429,Wilson-Hill,2024-03-11,,4.2
+2bd7095e-0e41-4de6-843c-9ea311b3f79b,College Surface,Beauty,441.87,84,King-Smith,2024-01-27,2026-02-24,3.5
+49405a6d-fbdc-465d-97b1-e4646567e39d,Respond Everything,Home & Kitchen,257.49,213,"Perez, Cantu and Miller",2023-04-23,,4.5
+1bba94f9-37d9-4e9a-ba9f-92546ffc1ec2,Voice Ever,Home & Kitchen,113.67,222,James-Hale,2023-05-02,,2.6
+3bff1db7-dafc-4370-9ac9-b60ff7e130eb,These Great,Beauty,984.37,19,Cook-Harper,2023-07-09,,2.4
+d85591c1-3b55-4039-bb7d-3565f276de93,Sport Everyone,Electronics,199.88,61,"Stanley, Ray and Ware",2025-01-16,2025-06-22,2.0
+2c58986b-ec02-43a7-9159-b058382ede06,Want Beautiful,Clothing,588.9,189,Andrews PLC,2023-06-09,,1.1
+c65aeca3-2827-4ee7-a2a4-e8bf2ef42862,Drive Since,Sports,259.02,310,"Jordan, Hampton and Bailey",2025-03-06,,1.6
+70c38070-0975-431b-b60d-ad7e6929374d,Budget Example,Home & Kitchen,944.8,287,Hernandez-Anderson,2023-12-27,,1.1
+6d647c1d-8887-4f1d-8345-94c708cee4de,Free Relationship,Clothing,610.07,314,"Ingram, Jackson and Kelly",2024-08-30,,3.7
+751b13e9-f316-4576-afcb-ad126220ddd0,Five Change,Books,51.08,99,Clark Ltd,2023-06-11,,1.9
+113a9c18-fd0a-4a03-8159-dc543a5091ff,Wear And,Home & Kitchen,604.38,179,Roman-Marshall,2024-08-06,,4.6
+d9c4b199-5d82-477c-8182-8a56bc3ff7d5,Animal Identify,Clothing,709.65,134,"Bailey, Harrington and Gray",2024-06-09,,1.5
+2deb0006-3135-4c49-92d8-b56cfcafdfbc,East Hold,Electronics,101.03,92,Gutierrez-Griffin,2024-10-29,,3.4
+8dfc4588-8f8d-44c4-91a3-bb8242b4c204,Grow According,Sports,622.53,399,Thompson-Kelly,2023-11-14,2025-05-03,4.1
+c173e052-2052-4815-afa9-1d8bfd1a2394,Team Give,Sports,483.86,422,Cooper-Parks,2023-09-24,,2.7
+a6141617-e400-42c1-a014-5b53da58ae73,Buy Early,Electronics,472.95,401,Torres Ltd,2024-02-05,,2.7
+f951c64f-1bcf-4b26-b783-48a1fad99a83,Pressure Mention,Sports,633.86,246,"Simmons, Morrison and Cooper",2024-02-04,2027-04-06,4.7
+f154d156-5d94-46e3-a96a-7e1ec40e6d3a,Between Husband,Books,617.69,134,"Dominguez, Stewart and Reyes",2024-02-04,2025-05-15,4.3
+ac78c4f5-e905-4325-86ad-399789e1945e,Weight Beautiful,Clothing,14.86,114,"Rivera, Smith and Green",2025-02-01,,2.6
+c5b00c2a-43ff-452e-b205-c8e39aa0de5e,Upon Teach,Clothing,881.57,33,"Moore, Hawkins and Tapia",2024-10-24,,3.4
+b56f6fee-48e0-4794-8b1e-24416f37c61f,Young Finally,Books,769.31,142,Adams-Browning,2024-02-27,,4.4
+9225758c-f2d2-43aa-b51c-9b443e146b66,East Guy,Clothing,144.77,489,Reyes-Palmer,2024-05-26,,4.1
+ee1d8c43-121f-467e-8b9a-48a417ee57d6,Table Make,Beauty,314.69,306,Sherman PLC,2024-04-04,2026-03-08,3.6
+45c28392-8e3b-48a2-924a-a1c877a280ac,Hundred Bed,Beauty,912.19,153,Kim PLC,2024-09-30,,3.1
+42455672-8717-4c24-b86c-4e04f02c030e,Everything Near,Home & Kitchen,885.86,477,Lee LLC,2024-05-07,2026-06-30,2.6
+ae0ad0fc-2b41-4dac-92a3-0b9e4b7c61cf,Finally Save,Sports,459.61,478,Cox-George,2024-08-17,,3.7
+fb2b1c96-44fd-4bc7-b13e-8815ffa31a02,Evening Draw,Electronics,577.79,187,Curtis PLC,2023-11-07,2026-10-15,1.3
+cb429e86-d40c-4868-bdde-6ca67e02d1e6,Operation Generation,Sports,954.41,379,Rodriguez LLC,2024-10-28,,4.2
+f48fa6d3-0ff7-4819-b15d-affea6b28deb,Maintain Like,Sports,411.85,473,"Pearson, Nguyen and Edwards",2023-05-16,,2.3
+3edda601-622f-4787-9414-8aad0bbb5e31,Consider Time,Home & Kitchen,231.29,231,Ward Ltd,2024-04-24,,2.2
+8f336d58-396d-4676-bdcc-34d478455c62,Cost Seat,Beauty,715.6,133,"Rowland, Peterson and Lowery",2024-05-01,,3.6
+a13043ca-071b-4980-90d1-56e14e287d0e,Why Camera,Electronics,304.38,450,Reed Inc,2023-12-08,2026-10-01,1.9
+e33c13c7-84a3-4f01-871b-b58726b2540b,Responsibility Particularly,Sports,867.78,271,Fleming LLC,2024-11-16,2026-03-13,2.8
+cda97851-673b-469e-9302-6b5cca72a7e9,Individual Realize,Beauty,380.76,237,"Rodriguez, Rodriguez and Campos",2024-08-21,,1.1
+f82153b1-d4e2-468b-a26b-d9c9f48ec75c,Though Join,Beauty,418.73,347,Lopez LLC,2025-04-11,2026-12-26,2.2
+1538bfdc-3593-44aa-9b1f-c2cabd5b89b4,Call Business,Electronics,28.39,202,Hodge Inc,2025-02-26,2026-06-22,4.2
+15ea2147-daf8-4738-9da2-83abffd6988e,Almost Try,Electronics,578.46,371,"White, Kline and Baker",2023-10-02,2027-02-05,2.6
+62f865a3-025e-400b-96ab-d658234dff0c,Floor Address,Home & Kitchen,512.39,135,Hale PLC,2025-04-05,,1.9
+4138e084-dcfb-459b-8a01-ed4af4d82b66,Society Common,Clothing,305.24,394,"Sanchez, Davis and Ford",2024-11-14,2026-10-29,1.2
+91a1465c-b6ca-4b0c-9db2-2d5abe01dc42,Between Good,Home & Kitchen,557.15,429,Gonzalez-Ruiz,2023-11-30,2025-12-25,3.1
+f995914d-0759-489f-9e2a-ec63ba045a47,Watch Security,Beauty,425.59,433,"Montgomery, Adams and Davis",2025-04-15,2025-08-18,3.9
+30893769-61eb-4d5b-b215-d7d2da08ce5f,Course Particular,Beauty,152.5,317,"Smith, Conner and Hodge",2024-08-19,2025-09-08,4.6
+6bcccacb-e746-4669-a44e-8b75ba1f35e9,Pattern Become,Beauty,817.4,274,Nelson LLC,2024-06-30,,4.0
+67be1140-038a-4ed2-b8bc-fb95e0b68137,Society Finish,Clothing,520.79,454,Moore Ltd,2024-03-03,,4.7
+4ce343cf-4ffd-4b71-a5b0-69c44ea3de64,Quickly Not,Home & Kitchen,77.71,176,Cain-Turner,2024-11-04,2027-02-13,1.9
+4840aabe-5880-46d5-a07c-d2beef060baf,Talk Could,Books,225.74,400,"Salas, Vega and Williams",2023-05-24,,4.3
+a295d7a9-91a3-49ae-b2a1-a3282e716fbe,Gun Sit,Home & Kitchen,832.49,257,Martinez Ltd,2024-05-29,,1.8
+6e8ef262-36b1-4586-a451-c422e932763f,Less Condition,Books,485.52,363,Williams PLC,2025-01-12,,1.6
+0e8510c3-0771-471a-abc0-8aa9c3084b6f,Big Professional,Beauty,358.49,396,Roach-Perry,2025-03-02,2026-04-09,1.5
+d79f7187-8ffb-4beb-bd4d-03dd95bf1465,Attorney Model,Beauty,177.27,423,Wood Inc,2024-10-16,,1.7
+e8a09e6e-4db2-4357-a3d2-10cd6e2c550e,When Show,Sports,240.82,477,Mccormick LLC,2024-08-03,,3.7
+b59ed5b1-73c3-4830-a61e-6ee8784deca5,Up Peace,Clothing,767.63,410,"Lawson, Lindsey and Gibson",2025-01-17,2025-07-22,1.1
+66c33ddf-ac0c-42a9-9dcc-d9d88c1e4116,Trial Arm,Sports,732.36,335,"Nichols, Cross and Baker",2024-05-25,,2.9
+0aa5be69-2049-4f20-88d6-f1e6a4c6c9c1,Enough Follow,Books,739.95,311,"Castro, Walker and Hernandez",2024-05-23,2025-05-02,1.0
+951174eb-1282-450e-b572-9ea4c5eb43f8,Phone Appear,Clothing,213.7,488,"Contreras, Floyd and Cuevas",2024-03-31,,3.6
+6c36cf05-4933-4884-86a0-a34f61ead7a4,Hear Important,Beauty,491.29,313,Cantrell LLC,2025-02-23,,4.1
+53d61ce1-c2ea-4bed-8ae1-6ffebc63f9cd,Many Moment,Electronics,484.38,444,Burns-Whitaker,2024-01-31,,3.0
+9c50c7f5-d731-432c-af46-d98f8f90abb4,Edge Firm,Books,339.1,339,Roberts-Newton,2024-06-12,2027-03-20,2.0
+1be4edeb-d590-4a34-be5b-321cd909e6d5,Modern Two,Home & Kitchen,756.29,12,Torres-Rollins,2024-11-10,2026-08-21,4.3
+c5b192f5-db91-49a8-b180-156ccd13c69c,Notice Rather,Beauty,293.72,385,"Bates, Mays and Tate",2023-09-15,,3.3
+ccf3e474-3b96-4063-92a5-706e84d47df8,Mission Never,Clothing,450.82,430,"Pope, Hines and Delgado",2024-06-22,,2.8
+6207e228-a684-4ca6-aaab-f6c03c68372d,History Letter,Home & Kitchen,773.82,359,Atkins Group,2023-08-23,2025-05-08,2.7
+29cfc61c-cc0f-45d1-bdd2-87d9824ec6f2,Very Daughter,Sports,54.16,251,Rivera-Hanson,2024-08-18,,3.4
+9c5dce1d-d451-456f-b490-6fdf082153d3,Production Consumer,Home & Kitchen,542.79,189,Fischer and Sons,2023-12-26,2027-01-13,3.5
+0f770743-f6e3-4339-92d6-b3376ce25119,Participant Fish,Electronics,948.7,203,Montgomery PLC,2023-09-14,,1.6
+9428fee7-5819-4301-a552-c985e35a7605,Wind Remain,Home & Kitchen,873.08,191,May-Sexton,2025-03-30,,1.3
+3b37207d-7e13-4e56-b1f9-84c1486d83a6,Practice Trial,Sports,382.06,419,"Copeland, Holmes and Fields",2024-05-19,,1.2
+f28face7-1d09-4711-9b98-3f0ee00f6422,Husband Benefit,Clothing,499.71,261,"Hill, Lutz and Wong",2024-08-21,2025-07-31,2.2
+e00f6d66-a5c5-4a4d-bf32-e6c51040a632,People Note,Beauty,183.7,277,Jones-White,2024-01-29,,2.8
+b7f91164-cf1b-4b54-8906-fbeb2268afce,Son Still,Books,603.45,265,Crawford LLC,2023-05-02,,2.0
+be94288d-8688-40fb-8263-26984d2e3070,Need Plan,Home & Kitchen,567.7,438,Mahoney Inc,2023-10-31,,3.8
+ebdfc837-5d34-4c6a-a5d5-36cf0823f402,Green Institution,Beauty,749.73,228,"Jones, Barry and Koch",2023-06-14,,4.5
+d82f35d7-46f3-42d2-81cf-a3b9f3846d73,Happy Everything,Books,648.23,194,"Harris, Williams and Sanchez",2024-09-23,2026-05-26,4.5
+b098d079-3130-4f2c-8851-8a838318e2c1,News Owner,Sports,713.13,225,Norman-Hood,2024-12-12,,3.4
+5dd3bf7a-ca15-48d6-8ce2-0bf3dba5ca6f,Issue Kind,Books,387.67,187,Campbell Inc,2025-04-11,,2.7
+d805435e-efb8-46f6-b775-a3a3a0a7834f,Speech Theory,Sports,782.0,352,Vazquez PLC,2025-02-24,,2.5
+29814166-142a-48cb-8d76-5e15e19d07e3,Wish Collection,Beauty,324.76,369,Woods LLC,2023-10-15,2025-04-29,4.5
+b5b61a56-7b78-4dfa-be73-58c76f53a7e7,Involve Dog,Clothing,109.02,64,Farley-Hernandez,2023-08-28,2027-04-08,3.5
+a2c65826-0d5c-47d3-9a9c-64f396d49fec,Human Several,Electronics,860.34,293,Yates Ltd,2024-06-07,2026-10-15,4.4
+79256a65-0bf4-433e-992c-07c79ff38c97,Better Very,Electronics,213.52,67,Stanley Group,2024-04-21,,2.7
+fa90d52d-e112-4158-a0a0-8fa2d2bcd690,Act Scientist,Sports,37.52,393,Reese Inc,2024-12-11,,2.6
+456cc103-edb3-4d01-817d-ec48cfcfe44a,Teach Inside,Electronics,935.91,448,Little-Johnson,2024-04-21,,4.1
+16a868ff-5a97-42bf-9ad3-1319f26efeff,Long Vote,Books,536.59,324,Smith-Kim,2024-12-25,,2.9
+52cde5ae-e56b-4bad-af60-1d6c4df55c36,Car Town,Clothing,118.45,76,Howell PLC,2024-07-24,2026-08-14,3.5
+5be268b1-16dc-42de-8176-97cde3f798ed,Religious Well,Books,320.24,166,Harvey-Graham,2024-02-13,,2.2
+25352f7c-5427-4ae1-93c5-1f191a40c414,Total Police,Sports,314.64,41,"Guzman, Walsh and Kirby",2023-05-25,,2.4
+22d6da11-dd71-4cec-9585-ee846f1c9a00,Turn Century,Home & Kitchen,734.66,438,Steele PLC,2024-07-08,2026-09-24,4.2
+07bba658-926f-43b8-bb2d-768ece30a574,Million Quality,Books,784.7,165,Davis-Thomas,2023-12-22,,4.3
+e568c856-a440-4f77-872b-5493164ebb08,Letter Trip,Home & Kitchen,944.1,89,Bowman-Vincent,2023-07-05,2026-02-12,1.5
+56d32b40-ad4d-4eb6-9994-e9fbfb7b5d6d,Thank Teacher,Clothing,851.86,288,Summers Inc,2024-07-10,,3.9
+53458d3b-f8a0-4f3a-a330-c954c0f36d08,Middle Approach,Clothing,269.35,187,Cross Group,2023-09-02,,2.8
+c79bea78-b148-4735-a87f-deda2b9ab39f,Meeting Almost,Sports,627.03,65,"Benton, Morrison and Ford",2024-01-31,,4.9
+8552e72f-9e16-418d-86e3-268b86926482,Though Another,Books,175.07,224,Smith-Phillips,2025-03-07,,5.0
+a5417b56-da8a-46cd-9a5c-184c73b87524,Issue Ago,Sports,955.5,396,Gonzalez-Gutierrez,2023-09-17,,2.3
+59f8bbb1-bef8-4861-8199-e11a068906fb,Like Return,Electronics,600.54,297,Rivas-Fowler,2024-01-17,,4.0
+42f3f7de-770c-4cac-bb4b-2e4ec1a55355,Back Last,Sports,297.72,443,"Garcia, Alvarado and Herring",2024-11-08,,4.1
+3c18ea7d-b252-4be8-ae6f-ee41b79c2fb8,Seem Young,Clothing,465.87,223,"Schneider, Garcia and Campbell",2025-02-19,,4.7
+dc37d009-eb20-42ff-b627-683e7f3fdd2b,Usually Course,Home & Kitchen,779.63,80,Walters-Williamson,2023-07-21,2025-09-03,2.1
+53937bfc-f853-4fad-8d58-94330c97a598,Company Book,Home & Kitchen,444.35,473,Russell-Fletcher,2025-03-17,,1.9
+0de268c7-1db5-47f3-a37c-25903ab3d8ce,Again Discussion,Electronics,150.74,393,Lewis-Hester,2024-05-25,2025-06-24,3.5
+80f8c409-d54e-4a8e-8b02-7744d198bacf,Research Risk,Books,981.39,7,Rodriguez-Smith,2024-03-03,2026-05-28,3.7
+082f9422-9219-44e2-8abb-53d34498b200,Speech Machine,Sports,863.65,361,Pope and Sons,2025-02-19,,1.0
+c8afeae4-266f-49f1-ab42-840a6ef35992,Beat Visit,Beauty,423.71,444,"Rios, Ware and Hess",2024-11-21,2025-12-24,1.3
+8f8320f5-800d-4e6c-8dfe-9eb5d2887c0c,Moment Effect,Home & Kitchen,926.3,380,"Suarez, Murray and Robinson",2024-01-25,2027-01-26,2.8
+34d2c478-44e3-4507-8f54-a806dd2c9a3e,House Mr,Beauty,401.89,165,Caldwell Group,2023-07-16,,1.3
+d3250206-b428-4372-9129-8528bf6f2fb9,Enter Because,Sports,727.35,433,Ochoa-Ferguson,2024-02-25,2026-06-19,1.1
+4558af33-9729-4e79-a5ff-36008bfdd83c,Ground Audience,Clothing,669.12,29,Kelly-Walker,2025-04-03,2026-05-27,4.5
+0a2164ef-115d-4b20-9ca5-8e7df0571e8b,Cell Tough,Books,585.11,17,"Barnes, Owens and Pearson",2024-04-12,,4.2
+44c4ee15-d162-4398-b69b-540a22ebbaae,Since Team,Electronics,792.79,247,Brown-Fernandez,2023-06-29,,5.0
+a8d17271-e1c7-4c75-8afc-9c9f484fb26b,Scene Than,Clothing,860.75,351,Reeves LLC,2024-09-25,2026-12-22,3.1
+603a819d-2d46-447b-8c43-6d63e32194cc,Nature Future,Clothing,817.83,302,Jones-Baker,2024-02-27,2026-11-19,1.5
+ebb02895-87bc-447b-88ac-a1af36d0a96f,Head Hope,Home & Kitchen,910.64,14,"Fox, Tucker and Cooley",2025-01-10,,3.9
+578f1c67-845c-46e3-a327-7b270ccc2f40,Indeed Live,Sports,237.88,47,Steele-Owens,2023-04-28,,3.7
+b25f33ca-f9a9-4d54-99f8-cdc87aad6530,Fight Oil,Clothing,332.93,62,Hill-Rivera,2024-09-12,,1.0
+c7464502-cf90-49db-a087-4d415243ea4e,Several Sister,Books,918.94,34,"Wilson, Brown and Sharp",2024-06-15,2026-08-05,4.1
+1e0c888d-472b-4663-a2ec-78ebaa1b42b1,Item Because,Books,624.9,104,Byrd PLC,2025-01-01,2025-12-08,3.4
+ee14e3f3-cbbc-459b-b383-0c6d3182bc6c,Ground Professor,Clothing,449.92,65,Nielsen-Goodman,2024-06-14,2026-12-11,2.1
+75d8abe4-61ea-4c02-b486-207f0f5293bd,Involve Not,Clothing,303.31,65,"Werner, Coleman and Cervantes",2025-04-17,,3.0
+06adc83e-fa93-4ea3-8b2d-305bfa7e6c4f,Then Man,Clothing,822.76,114,Brady-Banks,2025-04-11,2025-11-03,2.8
+b89ffc84-e5c6-4c68-b903-d867ec78c9d1,Line Improve,Home & Kitchen,805.72,181,Fowler LLC,2024-11-17,2025-09-27,4.5
+680c2d5e-3fa1-478a-bd8b-5d4a373e6562,Instead Wife,Books,96.97,482,Thompson-Bell,2024-09-22,,5.0
+d17d2f12-b470-4982-9e3f-f3dff2937da5,Near Democratic,Books,28.34,443,"Powell, Rogers and Long",2023-05-09,2025-10-11,3.7
+1345a8a1-9da4-4758-ad17-697d7bc40031,Country Know,Home & Kitchen,521.99,259,Montoya-Daniel,2024-08-12,,2.5
+38b0142c-51b5-490f-80ac-091c0cf25ea4,Step Then,Beauty,16.6,133,Foley-Martin,2025-02-01,2026-12-09,4.1
+23b2c9e6-2b8b-4809-8324-bc33ef5d8a6a,Ever Speak,Beauty,248.29,50,"Smith, Williamson and Little",2024-12-01,,1.4
+7d1ff047-8387-4b44-9ce8-67e1ed08ccfe,To Audience,Home & Kitchen,5.95,374,"Hart, Obrien and Blankenship",2025-02-16,,2.9
+137c900a-ab5b-437f-b090-5fe10bc38efc,Window Dinner,Home & Kitchen,90.36,207,Patton-Jimenez,2023-06-05,,3.2
+28e681c2-1e68-4b56-878b-ecb9a540f3ab,Treatment Explain,Clothing,237.03,175,Franklin Inc,2024-07-19,,2.1
+fc7fccf8-dcfd-49ac-9dd7-ece34169705e,Address Debate,Electronics,663.37,78,"Porter, Ochoa and Taylor",2023-05-08,2025-09-05,1.3
+071bea15-5183-49fe-b911-713c4a2a2136,Fast War,Home & Kitchen,343.76,215,King Inc,2023-09-05,2027-01-12,2.1
+102a8481-6ad1-4e9f-b85f-90845aac3ed5,Town Then,Books,484.41,390,Edwards-Chen,2024-03-15,,4.2
+b33e572c-49d4-4681-9f1c-b553f9207c3f,Drive Clear,Home & Kitchen,486.76,307,Tran-Rodriguez,2024-04-05,2025-10-11,3.3
+af965fed-4d95-4ba8-923d-babc0643eb54,Gas And,Sports,616.33,393,Forbes PLC,2023-09-15,2026-12-11,3.7
+a52536d1-3029-4a7c-91a1-cbbac1f88b18,Another Yard,Clothing,353.92,224,Torres Group,2023-04-21,2026-05-11,1.4
+dfdc7b43-001a-4847-9290-61ab0861eb44,Hair Play,Electronics,232.41,418,"Curtis, Anthony and Haley",2024-12-17,2025-12-07,4.8
+31a5a19c-dd8d-4b7a-b58a-6c3b721ff10e,Art Process,Home & Kitchen,35.05,171,Farley-Kaufman,2024-10-31,2026-01-18,4.3
+c3775544-21da-4dea-8e37-f133647a80e4,Still While,Clothing,719.98,38,"Schneider, Thompson and Hale",2024-08-20,2026-01-24,4.0
+56e81b08-ad9b-42ab-9032-6f1239744adf,Piece Leader,Home & Kitchen,923.94,293,Hamilton Ltd,2023-07-18,,1.4
+d70dff9e-e9e0-4582-a519-2a1aef904dd2,Suddenly Bar,Beauty,349.27,17,Hammond-George,2023-05-01,2027-04-14,3.0
+39369684-a590-4261-8c05-9b53909bd0b4,Project Professor,Books,376.1,276,"Miller, Arnold and Winters",2024-12-04,2026-04-05,4.0
+00ee85b4-870b-4a8d-b001-aabba23e37d3,Center Speak,Clothing,208.41,374,"Watson, Rivera and Brown",2024-04-21,,2.7
+42615c4f-b98a-43ee-a505-49c378e2852b,Want Since,Beauty,421.26,139,Barnett Ltd,2024-12-31,,2.5
+5efb1c1d-0920-4072-9335-7077bf2adf35,Similar Mr,Sports,989.01,120,Perry Inc,2024-03-07,2026-08-21,1.7
+1cee775c-ab45-4fc0-a966-f1daa930f690,Soldier Prove,Sports,263.08,94,Rodriguez Ltd,2025-02-07,2025-10-10,1.2
+3275f154-d153-4ceb-a6a1-4848178ecbf1,Imagine Always,Beauty,829.61,3,Buckley-Perkins,2024-02-28,2025-12-22,4.0
+a1de2da8-5524-4911-95c4-33a6adb17479,Machine Especially,Electronics,591.17,297,Cook and Sons,2023-07-20,,4.9
+3d106964-bce1-4365-abfa-30e8639ca7f7,Girl Key,Clothing,59.82,278,"Gonzalez, Tucker and Rogers",2023-11-17,2026-02-02,1.4
+04b00097-cf91-42c1-9151-835e8de49945,Foreign Like,Home & Kitchen,82.03,10,"Johnston, Hayes and Hickman",2023-08-04,2025-06-22,3.6
+1be8d44b-a600-46b4-b5be-3c0df3b8a96f,Section Reality,Beauty,104.45,332,Holder-Barajas,2025-02-05,2026-12-13,4.5
+e3072cd0-59f9-400f-8f9a-92811e638fd9,Big Case,Home & Kitchen,207.65,129,Walsh Ltd,2025-01-09,2025-12-23,4.7
+0f6bd705-e560-4b5b-bbf0-9317f5cc70f8,Head Color,Sports,261.8,471,Smith and Sons,2023-04-23,,4.6
+36d22122-c532-40bb-bfa5-5cf2630aad67,Role Five,Beauty,771.7,118,Russell and Sons,2024-08-26,2026-03-13,4.5
+089254cd-c4ef-4e33-9224-02991a20d10a,Learn Why,Clothing,766.89,285,Hall Ltd,2023-08-15,2025-08-04,3.3
+edb17e31-0729-4b3f-8f27-9a08dd781690,Again Alone,Electronics,954.12,3,Johnson-Petersen,2025-03-04,2025-11-13,4.8
+85ff6963-db41-4d63-b960-4ca82c1604ce,I Remain,Home & Kitchen,861.73,461,"Phillips, Kelley and Brewer",2024-04-20,,2.1
+a7fc40ff-b6e5-4820-9235-605b17d9fd7d,Day Candidate,Clothing,87.5,207,Brown-Stanley,2024-05-19,,4.8
+23fbcd6e-747b-4739-9c6f-7acd7a0445ab,We Speak,Beauty,78.04,95,Erickson Group,2023-07-06,2026-05-08,3.0
+8fce2bb9-0d40-453b-9192-838433e47787,No Affect,Home & Kitchen,82.48,380,"Howard, Woods and Evans",2024-05-15,2025-12-13,3.5
+dbe10a52-d715-4f74-9d2b-55fa52f0deab,Six Item,Sports,325.07,183,Martin-Nguyen,2024-10-03,2025-09-05,1.5
+7cb83eba-f6d0-4169-a8d0-712da676e09f,Sea While,Sports,357.05,59,Alexander and Sons,2023-10-01,2027-03-11,2.8
+8c4d3b42-6b60-45a9-8a60-836be2be3608,Defense Sometimes,Clothing,995.47,337,Montgomery-Livingston,2023-10-06,2026-12-17,2.7
+393e34e1-cb62-4737-a19c-21e974260c3d,School Executive,Books,93.53,238,"Cook, Williams and Barnes",2023-07-23,,3.0
+b8c4845f-5c02-4ab3-9be8-38bd2312bb93,Method Wrong,Home & Kitchen,350.52,4,"Hall, Lawrence and Pena",2023-10-22,2026-06-23,1.9
+f1f08a51-ab33-40f6-9c38-5ab60bf27dce,Night Listen,Clothing,623.93,142,"Davis, Cook and Adams",2024-03-20,,4.8
+cd4f7fc7-9981-4c1e-8007-c4aefcb64a11,One Society,Clothing,927.54,283,"Jones, Morris and Hayes",2024-04-23,2026-11-23,2.0
+1a5a2740-ce4f-4df1-bf74-d3d3a680e5f3,Challenge Finally,Electronics,649.04,420,Ferguson-Lane,2025-03-10,2026-03-19,4.3
+16b9eb50-de42-4db2-b6a0-4031bbbfb1b3,Human Range,Home & Kitchen,83.92,92,"Green, Watson and Vance",2023-10-26,,1.2
+0562cdcc-276f-4c90-a34c-79a82083510b,Shoulder Form,Books,253.66,33,"Cook, Carlson and Kent",2024-05-13,2027-02-28,3.6
+81a8d253-6152-4787-9601-68959eb9db5e,Father Speech,Electronics,351.0,358,Ellis-Orr,2024-08-05,,4.2
+b80bc08e-0623-4916-975c-ee73be5dabc6,System Drop,Books,703.5,180,"Johnson, Cuevas and Scott",2023-06-25,,4.7
+e6450e5e-1781-4aed-9708-b999566466b9,What Cut,Books,599.47,45,"Knox, Martinez and Mendoza",2023-05-11,2025-12-18,2.6
+65fedfab-3804-47cd-874f-05f0624011b2,Consider Safe,Beauty,47.92,436,"Le, Ferguson and Graham",2023-12-28,,4.1
+f8aebfa4-4c01-407b-89b8-3fa33432b441,Character Imagine,Sports,602.66,289,"Hunt, Robinson and King",2023-10-18,,5.0
+3535fb0c-624e-458e-8102-650c0cf86600,He Radio,Home & Kitchen,733.18,30,Hall-Spence,2023-11-26,,3.6
+9f714aa7-b68f-45fe-96b7-fd2a0fbfaff9,His Protect,Electronics,518.49,459,Friedman and Sons,2023-06-24,2026-11-07,1.1
+3c7f6500-da8f-4134-8e99-f23bccde09e7,Yourself Itself,Clothing,611.74,381,Adkins Ltd,2024-10-07,2026-08-01,3.4
+b83670e1-e463-4d47-9282-d7afe333e58a,Value Next,Clothing,460.63,488,"Stephenson, Rivera and Sanchez",2023-07-18,2025-09-23,2.0
+bcf93fa7-b353-436e-8f97-dad7dc252f39,Job Tax,Beauty,415.76,251,"James, Gardner and Rodriguez",2024-08-12,,1.6
+5c280d35-9fbf-4916-be87-0f10a8656050,Across Project,Electronics,404.7,155,"Stanley, Palmer and Chambers",2024-04-17,2026-08-21,3.0
+10548af2-ba64-44ce-9fb8-329d20d2723b,Quite Glass,Home & Kitchen,431.35,184,"Russell, Foster and Morrison",2024-12-19,,2.5
+23e4349c-fd3e-4898-b2a2-7c52ce3db465,Amount Box,Beauty,705.63,240,Ray LLC,2025-03-04,,1.1
+260a4981-208c-4d28-a2a9-e7e38d94d994,Organization Control,Electronics,885.0,235,Woods-Carter,2023-07-19,2027-02-15,3.4
+5a22adbc-4e9b-4c29-a807-a8eb512e04d8,Certain Company,Home & Kitchen,514.81,324,Villanueva-Greer,2023-06-21,2026-11-24,1.1
+40f98971-6fc3-4d59-8f6f-ab08c7e1b0ad,Five Huge,Beauty,8.48,289,Ramsey PLC,2024-05-22,,4.7
+8fcbb338-6b34-4b1f-a1cc-9354c7b4b4f0,Stage Step,Beauty,29.8,428,Sanchez LLC,2023-11-26,,4.5
+696d1d98-39d7-4c03-8161-cdfbeb3c18f9,Loss Director,Clothing,619.46,184,Nguyen Inc,2025-01-22,,2.9
+5302ae43-f615-4328-9d62-90279e570523,From Drop,Home & Kitchen,35.2,43,"Garcia, Adams and Taylor",2023-06-08,,2.1
+12580194-433c-4d56-91fe-9b09450b6c5e,Beyond Could,Home & Kitchen,591.86,137,Bradley-Schmidt,2023-05-07,,5.0
+89833b53-e370-4237-b620-602ae99cf944,Member Full,Electronics,107.34,11,Patterson Group,2025-03-21,2026-09-22,4.8
+e05a3de9-5b11-4566-88dd-d4f8def5e9e5,Board That,Electronics,494.42,407,Johnson-Rodriguez,2023-06-11,,2.7
+d6d1db07-de75-4938-bc67-dff422361bb1,Their Occur,Clothing,7.34,118,"Knapp, Cunningham and Fisher",2023-05-18,,3.3
+5a0fb23d-5995-4dec-82c4-67e84d0006b8,Word Million,Beauty,106.38,340,Mcdonald Ltd,2025-01-01,,2.9
+41ff8aec-8353-49bc-a65f-95e5734debd7,Finish Head,Electronics,295.91,191,Anderson-Howard,2023-11-09,,2.3
+8b595ec5-c187-430b-875f-8e8934a8152d,Bed Audience,Home & Kitchen,596.79,101,"Gallegos, Rodgers and Munoz",2025-03-11,2025-12-05,2.5
+5f35456e-2b55-455e-be84-ed2e64b29190,Story Good,Home & Kitchen,773.28,78,White Inc,2023-08-08,2026-11-27,1.4
+c8647a80-2f4c-4844-bfee-cf32df1c9d42,Management Produce,Books,293.74,427,Cook PLC,2023-12-22,,2.0
+b7ebf660-25d7-474c-a8a8-9fd510523897,Stock Enter,Clothing,946.25,315,"Reed, Sanchez and Montgomery",2023-07-06,,3.4
+e0e47c10-64b6-4967-8d8e-06e2eea5cdbe,Draw Look,Beauty,317.96,470,Campbell Inc,2024-02-08,,1.9
+fbf5bc59-faac-41f5-9250-90c4deca7ccb,Product Former,Clothing,668.81,455,Wilson LLC,2024-01-21,2027-01-09,1.2
+6f5a9d73-5aef-458a-bf4e-1782194524ec,Happen Hour,Sports,179.73,17,Rogers Group,2025-04-18,2025-11-28,2.5
+b36392c2-4d9b-4460-a7f7-94e9cd824231,Six Though,Books,623.97,409,Torres-Hunter,2023-06-11,2027-02-04,1.4
+f7075dfb-ecad-4c56-a94b-5f49e6b8b48c,Focus Thought,Clothing,535.97,273,"James, Thompson and Anderson",2025-03-15,,3.8
+b9297ace-9231-4992-a603-55079980e817,Various Culture,Electronics,354.68,380,Butler Group,2023-11-16,,5.0
+28566de6-3926-49e2-afbd-7def445e31e3,Turn Day,Sports,742.94,155,"Torres, Anderson and Davenport",2024-07-14,2025-07-01,3.1
+f3ee8e32-5ec2-4110-9248-959b5e58312e,Study Natural,Beauty,75.85,200,Long-Dixon,2023-11-30,,1.8
+a039d237-abca-4be5-87d4-33b2713b81ee,Should Officer,Sports,428.81,190,Bruce-Smith,2023-12-21,2025-07-01,2.2
+ee42e499-d162-4e2c-a27c-d12f59e05dba,Entire Stuff,Beauty,669.56,371,Lopez-Ross,2023-08-05,2026-02-07,4.6
+cac436a0-08ba-472c-a6dd-42e18d013bc7,May Animal,Electronics,239.77,285,"Shaw, Fernandez and Miles",2024-07-17,2027-02-01,3.0
+fbd542fc-4c50-4e77-bde6-c4a1e2c33613,Now Compare,Electronics,57.28,237,Howell and Sons,2023-04-23,,4.5
+ac928f32-916a-4c15-b52a-17437752a1c6,Really Throughout,Clothing,983.43,298,"Cole, Lambert and Gallegos",2024-10-17,,1.4
+4cbe9c02-f5fe-47f6-a02f-49a08c0864a4,Newspaper List,Sports,5.71,202,"Marsh, Randolph and Hammond",2024-11-18,2025-09-16,3.1
+de16e8a8-d1c4-44e8-bb9b-e253084fb684,Card Run,Beauty,530.32,442,Herrera-Andrade,2023-11-08,2025-05-07,4.4
+b086d1c1-b1ae-4ff2-b551-dfcc2bbe1a11,If Relationship,Electronics,267.97,235,"Guerra, Richard and Schaefer",2024-05-04,,1.1
+15de7c43-7f69-4e6c-aeb5-e205a2c27471,Administration Your,Clothing,843.14,357,Duran LLC,2024-09-03,2026-06-19,3.9
+9c8f7efd-43e4-454e-a9f0-f1241d023126,Often General,Clothing,640.03,492,"Fitzgerald, Walters and May",2024-12-24,,3.0
+6c7bdea2-9e25-4ad9-97db-86fd2a8cb209,Fear Vote,Sports,149.29,227,"Williams, Chase and Shaw",2025-02-19,,1.6
+77b9d106-df6d-4bb3-a3ff-81abd7b2ca5b,Stand Rock,Sports,291.54,330,Phillips PLC,2023-10-27,,2.5
+425af19f-c7ce-43a5-9dd0-3f0da9e6556c,Partner Girl,Home & Kitchen,787.02,241,"Gutierrez, Cox and Gonzalez",2024-12-23,,2.1
+b9ee5ffe-8ed2-4bf0-ab8a-a1ecb0a366b6,Little Five,Beauty,192.73,437,"Fuller, Roth and Pugh",2024-08-14,,2.8
+44a38da6-1fde-49fb-aee1-da8de1c7138e,Share Stop,Home & Kitchen,978.45,425,"Salazar, Conner and Orr",2023-07-17,,1.2
+e99f28ff-05cd-4aa6-a946-ecc055e8ee7c,Near When,Home & Kitchen,524.02,460,Gardner Inc,2024-09-25,,1.7
+e25f4f4c-db73-4541-81de-e7d28b12b74d,Crime Stage,Sports,483.34,52,Smith-Bauer,2024-05-24,,3.9
+bf0e7c07-464f-49b4-a114-61c3aa801eda,Leave Alone,Electronics,938.32,327,Taylor-Atkinson,2023-09-01,,4.2
+15d9717b-922d-4b83-baf1-b4d98c44fa31,Turn Single,Home & Kitchen,815.27,281,Jackson-Mcmillan,2024-02-21,2026-04-21,3.8
+ea28971c-da94-40a0-9013-c853b0ee05f6,Deal Develop,Sports,67.6,430,Pruitt-Wagner,2023-12-25,2025-10-28,3.1
+e45f371c-12d5-4334-8d19-aee6e4f7443c,Kind Even,Beauty,650.22,415,Mcdaniel Ltd,2024-06-18,,3.7
+419b3835-bb70-47db-8379-06710bfbec77,Want Leader,Books,508.64,278,Lowe Group,2024-03-19,,3.2
+43dfec83-7e8f-4019-921e-029c0029e442,Morning Product,Home & Kitchen,622.7,365,Lopez LLC,2024-08-06,,2.6
+1c172ac9-b448-42df-b049-1d1d2994bca5,Market Full,Clothing,561.26,163,Williams and Sons,2023-07-01,,2.5
+d9e340d5-9aad-4875-90d8-7c80af7942d7,Event Throughout,Home & Kitchen,629.96,21,Smith PLC,2024-12-22,,2.7
+9cc48908-23c7-45b0-b398-166fdf4e08aa,Choice Month,Electronics,803.45,61,"Wong, Clark and Ross",2024-10-12,2026-01-24,4.4
+a0e8cf3d-b619-4405-825c-168afcca8112,System Adult,Home & Kitchen,159.7,229,Leonard and Sons,2024-03-13,,4.2
+36a8bce8-8027-487f-9844-a54b7e43f9e3,Fight Base,Sports,88.97,447,"Carroll, Tucker and Tate",2025-03-15,2025-06-09,1.8
+91f9a46a-1e68-4dec-8ae0-ded6dccd2266,International Toward,Books,351.99,424,Martinez-Davis,2024-02-17,2025-05-12,2.7
+c1fad9da-fbfa-4200-a2e9-b4b257125c25,Call Everything,Electronics,23.26,374,Bell-Kirby,2024-05-02,2025-12-26,4.4
+fcf34dd8-3e02-4f5f-aa9f-58c847116d3c,Argue Benefit,Sports,951.83,197,Garcia-Kirby,2024-11-06,2026-01-07,3.2
+482bf148-3016-4196-b5e4-cb4bd5933c64,Say Cold,Beauty,444.67,453,Barker Ltd,2023-04-30,2025-08-30,3.7
+178b3da4-776c-4a21-8004-d68ffa78a844,Rule You,Clothing,615.64,325,"Hicks, Ward and Hughes",2024-09-01,2026-07-08,3.5
+6fd32df2-d905-4c7b-a3b3-6a94a9b13d1f,War News,Electronics,424.41,15,Miller LLC,2023-05-10,,3.2
+5eb4e2e1-d887-45e6-9e43-31477fb9f8b8,Win Should,Books,597.35,26,Martin and Sons,2023-09-04,,4.6
+0c84a92a-1f21-4572-9d02-42f0a1829827,Those Especially,Books,541.59,497,Chen-Smith,2023-05-18,,3.9
+5e1c2edd-e3c9-435a-a738-98662ae61c0b,Discussion Could,Books,477.28,123,Williams Ltd,2023-08-11,2025-07-18,4.0
+8e2c0074-4697-426c-88b4-5266379e0762,Move Section,Beauty,299.16,420,Sherman-Taylor,2024-01-06,2026-08-12,1.5
+6b1d2877-d5b6-4aab-8ddb-ebf8cfb2fa3f,Scene Area,Books,178.12,109,Garcia Group,2024-02-12,,4.2
+30e6714b-433f-407b-8c4a-f2a9da6bc009,Already Begin,Clothing,863.72,6,Weber Group,2024-04-03,,3.6
+1183b379-6d3d-4f5c-bfd6-7e45ccc00d30,Degree Wall,Sports,207.04,467,Bright Ltd,2023-07-04,2025-08-12,3.4
+e26a352b-52dd-41e7-a912-64f81a8c0283,Event Morning,Home & Kitchen,178.55,321,"Obrien, Hampton and Gould",2023-12-01,2025-06-17,1.2
+418dd6ff-d98b-4e32-a228-21d0090bece6,Down Plant,Sports,218.81,280,Silva-Garza,2025-02-27,2025-04-26,2.5
+693d2980-8d96-419c-a624-46afcd36cac8,Pressure Less,Books,27.38,54,Forbes-Mendez,2024-08-21,,4.2
+26d8fa6b-5faf-4951-a7d6-817228f51b3e,Space Well,Electronics,881.76,228,"Cook, Harrison and Rivas",2023-11-27,,3.0
+5b61ed44-4028-4bc2-b979-989f338af4d5,South Hit,Books,748.5,44,"Wheeler, Wheeler and Chung",2023-12-31,,4.5
+efc3f647-d858-4a49-9165-5db8708c25ca,Treat Night,Home & Kitchen,689.36,157,Kennedy LLC,2024-11-27,2026-09-14,4.8
+3beec2fa-28a1-408e-a144-eecbd0444aac,Use Phone,Books,494.72,373,Patel Group,2024-10-08,,5.0

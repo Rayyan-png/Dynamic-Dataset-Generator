@@ -1,0 +1,11 @@
+inventory_id,product_name,product_category,quantity_available,warehouse_location,supplier_name,supplier_contact,last_restocked_date,expiration_date,cost_per_unit,selling_price,reorder_level,stock_status
+49b9a06f-ced1-479a-874b-ea4fb3b042d4,notice,Groceries,792,Lake Steventon,"Fuller, Foster and Schultz",637.559.2886,2025-03-16,2025-12-13,319,8506,154,Out of Stock
+78b243f5-ad70-4507-aca0-55312745b5f8,increase,Groceries,895,Katherinehaven,"Perry, Reese and Barrett",(438)205-3255,2025-01-16,2025-12-17,783,5772,490,In Stock
+71d60798-8024-42f5-9716-84eefaa9f7b8,opportunity,Electronics,479,Guzmanside,Larsen PLC,+1-614-721-1901x05409,2025-01-05,2025-05-26,217,6588,495,Out of Stock
+10fc8734-fe6e-43da-affd-1d544f008fa0,college,Furniture,505,North Corey,"Reilly, Martinez and Serrano",+1-652-665-5433,2025-01-15,2026-03-19,831,5948,477,Low Stock
+740a64e0-47ff-4a3b-8cc2-9f29b9c7cc68,system,Toys,873,Vincentfurt,"Hill, Murillo and Fleming",786.883.7486,2025-03-12,2026-02-26,896,9647,299,Low Stock
+37b04e10-e5f8-4dcd-acf2-4c99167906d4,town,Toys,823,East Preston,Li LLC,911-561-1209,2025-01-13,2025-12-17,823,4722,148,Out of Stock
+39caf9af-7a2b-4e0e-9297-922c873ae306,cold,Electronics,577,South Diane,Barnes LLC,9113533744,2025-04-13,2026-02-16,399,8319,141,Low Stock
+970852dc-d3c4-4277-9844-f34157ac66a2,spend,Clothing,105,Port Billyland,"Montoya, Miller and Brown",001-251-744-6458x934,2025-02-17,2025-06-24,554,4760,457,In Stock
+c2e82942-f727-43af-bfc9-292b072b60de,even,Clothing,356,Wardfurt,Perez and Sons,7386477265,2025-01-22,2025-10-06,463,681,229,Low Stock
+9dec5d22-dedf-4a5e-a4c6-9a5e9cea51da,only,Groceries,615,Jacquelinehaven,Smith Ltd,889.571.2511,2025-03-18,2025-06-11,834,225,295,Low Stock
