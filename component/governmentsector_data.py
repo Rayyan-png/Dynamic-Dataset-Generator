@@ -2,11 +2,11 @@ from faker import Faker
 import pandas as pd
 import random
 import io
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 # Initialize Faker & Flask
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Separate functions for each attribute
 def get_citizen_id():
@@ -108,7 +108,7 @@ def generate_data(num_records=100):
 #     return send_file(output, mimetype='text/csv', as_attachment=True, download_name="government_data.csv")
 
 # For testing locally
-if __name__ == '__main__':
-    sample_df = generate_data(10)
-    print(sample_df.head(10))
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     sample_df = generate_data(10)
+#     print(sample_df.head(10))
+#     app.run(debug=True)

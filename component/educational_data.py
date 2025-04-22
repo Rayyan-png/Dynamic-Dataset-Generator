@@ -1,11 +1,11 @@
 from faker import Faker
 import pandas as pd
 import random
-from flask import Flask, send_file
+# from flask import Flask, send_file
 import io
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Attribute Generators
 def generate_student_id():
@@ -110,7 +110,7 @@ def generate_data(num_records=100):
 #     return send_file(output, mimetype='text/csv', as_attachment=True, download_name='educational_data.csv')
 
 # For local testing
-if __name__ == '__main__':
-    sample_df = generate_data(10)
-    print(sample_df.head(10))
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     sample_df = generate_data(10)
+#     print(sample_df.head(10))
+#     app.run(debug=True)

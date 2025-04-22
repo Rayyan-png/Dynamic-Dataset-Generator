@@ -1,11 +1,11 @@
 from faker import Faker
 import pandas as pd
-from flask import Flask, send_file
+# from flask import Flask, send_file
 import io
 import random
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 def generate_farm_id():
     return str(fake.uuid4())  # Ensure UUID is a string

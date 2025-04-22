@@ -1,9 +1,9 @@
 from faker import Faker
 import pandas as pd
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Attribute functions
 def get_purchase_order_id():

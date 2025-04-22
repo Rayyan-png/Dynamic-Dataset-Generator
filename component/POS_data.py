@@ -80,8 +80,8 @@ def generate_data(num_records=100):
     return pd.DataFrame(data)
 
 # Generate sample POS data
-df_sample = generate_data(10)
-print(df_sample.head())
+# df_sample = generate_data(10)
+# print(df_sample.head())
 
 # # Save to CSV
 # df_sample.to_csv("pos_data.csv", index=False)

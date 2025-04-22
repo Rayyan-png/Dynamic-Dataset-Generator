@@ -2,11 +2,11 @@ from faker import Faker
 import pandas as pd
 import random
 import io
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 # Initialize Faker & Flask
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Function to generate individual telecommunication data fields
 def generate_subscriber_id():
@@ -99,15 +99,15 @@ def generate_telecommunication_data(num_records=100):
     return pd.DataFrame(data)
 
 # Flask route to download telecommunication data as CSV
-@app.route('/download_telecommunication_data')
-def download_telecommunication_data():
-    df = generate_telecommunication_data(5000)  # Generate 5000 records (adjust as needed)
+# @app.route('/download_telecommunication_data')
+# def download_telecommunication_data():
+#     df = generate_telecommunication_data(5000)  # Generate 5000 records (adjust as needed)
 
-    # Saving data as CSV file
-    file_path = "telecommunication_data.csv"
-    df.to_csv(file_path, index=False)
+#     # Saving data as CSV file
+#     file_path = "telecommunication_data.csv"
+#     df.to_csv(file_path, index=False)
 
-    return send_file(file_path, as_attachment=True)
+#     return send_file(file_path, as_attachment=True)
 
 # Run Flask app
 # if __name__ == '__main__':

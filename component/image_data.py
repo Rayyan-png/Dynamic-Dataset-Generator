@@ -3,11 +3,11 @@ import pandas as pd
 import random
 import io
 import json
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 # Initialize Faker & Flask
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Attribute generators
 def generate_image_id():

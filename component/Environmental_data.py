@@ -1,11 +1,11 @@
 from faker import Faker
 import pandas as pd
 import random
-from flask import Flask, send_file
+# from flask import Flask, send_file
 import io
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # --- Individual Attribute Functions ---
 def get_sensor_id():
@@ -106,7 +106,7 @@ def generate_environmental_data(num_records=100):
 #     output.seek(0)
 #     return send_file(output, mimetype='text/csv', as_attachment=True, download_name='environmental_data.csv')
 
-if __name__ == '__main__':
-    sample_df = generate_environmental_data(10)
-    print(sample_df.head(10))
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     sample_df = generate_environmental_data(10)
+#     print(sample_df.head(10))
+#     app.run(debug=True)

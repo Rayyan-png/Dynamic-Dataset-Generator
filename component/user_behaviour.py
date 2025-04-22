@@ -1,10 +1,10 @@
 from faker import Faker
 import pandas as pd
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 fake = Faker()
 
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Function to generate individual user behavior data fields
 def generate_user_id():

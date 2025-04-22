@@ -2,10 +2,10 @@ from faker import Faker
 import pandas as pd
 import random
 import io
-from flask import Flask, send_file
+# from flask import Flask, send_file
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # === Attribute Generators ===
 def generate_policy_id():

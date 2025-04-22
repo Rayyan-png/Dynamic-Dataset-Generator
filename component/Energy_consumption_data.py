@@ -1,11 +1,11 @@
 from faker import Faker
 import pandas as pd
 import random
-from flask import Flask, send_file
+# from flask import Flask, send_file
 import io
 
 fake = Faker()
-app = Flask(__name__)
+# app = Flask(__name__)
 
 # Attribute Functions
 def generate_meter_id():
